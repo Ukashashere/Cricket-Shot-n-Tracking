@@ -185,7 +185,7 @@ def process_video(input_video_path, output_video_path):
 
 
 # ==================== Run Processing ====================
-input_video = os.path.join('videos','mine2.mp4')  # Replace with your input video file
+input_video = os.path.join('videos','8_pbks_kkr_sweep_3.mp4')  # Replace with your input video file
 output_video = "final_processed_video.mp4"
 
 process_video(input_video, output_video)
